@@ -1,0 +1,6 @@
+framework module BliBaoPaySDK {
+  umbrella header "BliBaoPaySDK.h"
+
+  export *
+  module * { export * }
+}
